@@ -1,4 +1,4 @@
-# API NodeJs, utilizando TypeScript, Express e MongoDB. Exemplo simples feito no Bootcamp da Digital Innovation One.
+# API NodeJs, utilizando TypeScript, Express e MongoDB. Exemplo feito no Bootcamp da Digital Innovation One.
 
 * O que será usado: 
 
